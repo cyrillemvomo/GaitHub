@@ -2,9 +2,7 @@
   <img src="https://github.com/cyrillemvomo/GaitHub/blob/main/Final_Logo.png" width="100%">
 </p>
 
-# GaitHub
-
-### A digital health companion designed to democratize digital mobility biomarker analytics
+# A digital health companion designed to democratize digital mobility biomarker analytics
 
 GaitHub is an emerging digital health platform designed to make advanced mobility analysis accessible, interpretable, and clinically meaningful in healthy and pathological aging.
 

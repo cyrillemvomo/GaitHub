@@ -91,6 +91,14 @@ The present version primarily serves as an initial foundation for future large-s
 
 ---
 
+# Download
+
+Download the current Windows pre-release version of GaitHub here:
+
+👉 [Download GaitHub.exe](https://github.com/cyrillemvomo/GaitHub/blob/main/GaitHub.exe)
+
+---
+
 # Vision for the First Full Release
 
 The first full release of GaitHub will substantially expand the platform’s capabilities.

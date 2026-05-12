@@ -3,6 +3,7 @@
 </p>
 
 # A digital health companion designed to democratize digital mobility biomarker analytics
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=cyrillemvomo.GaitHub)<!-- omit in toc -->
 
 GaitHub is an emerging digital health platform designed to make advanced mobility analysis accessible, interpretable, and clinically meaningful in healthy and pathological aging.
 

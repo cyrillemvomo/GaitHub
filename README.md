@@ -5,7 +5,7 @@
 # A digital health companion designed to democratize digital mobility biomarker analytics
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=cyrillemvomo.GaitHub)<!-- omit in toc -->
 
-GaitHub is an emerging digital health platform designed to make advanced mobility analysis accessible, interpretable, and clinically meaningful in healthy and pathological aging.
+GaitHub is an emerging digital health platform designed to make advanced mobility analysis accessible in healthy and pathological aging.
 
 Modern wearable sensors can capture an extraordinary amount of movement data during daily life. Yet transforming these raw signals into clinically interpretable Digital Mobility Outcomes (DMOs) remains technically complex and largely inaccessible outside specialized research laboratories. This gap is widely recognized as one of the central barriers preventing the large-scale adoption of wearable mobility biomarkers in clinical practice.
 
